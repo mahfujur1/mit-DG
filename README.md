@@ -12,7 +12,9 @@ The Link of the paper [Paper in arxiv](https://arxiv.org/abs/1812.08974).
 ![alt text](images/results.PNG)
 
 
-Please Cite:
+## Citation
+If you use this code for your research, please consider citing:
+
 ```
 @INPROCEEDINGS{8658643, 
 author={M. M. {Rahman} and C. {Fookes} and M. {Baktashmotlagh} and S. {Sridharan}}, 
