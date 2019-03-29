@@ -5,6 +5,10 @@ The Link of the paper [Paper in IEEE](https://ieeexplore.ieee.org/document/86586
 
 The Link of the paper [Paper in arxiv](https://arxiv.org/abs/1812.08974).
 
+## Architecture
+
+
+![alt text](Arch.PNG)
 
 
 Please Cite:
