@@ -8,7 +8,7 @@ The Link of the paper [Paper in arxiv](https://arxiv.org/abs/1812.08974).
 ## Architecture
 
 
-![alt text](Arch.PNG)
+![alt text](images/Arch.PNG)
 
 
 Please Cite:
