@@ -1,9 +1,9 @@
 # MIT-DG
 # Multi-component Image Translation for Deep Domain Generalization
 
-The Link of the paper  [Paper in IEEE](https://ieeexplore.ieee.org/document/8658643).
+The Link of the paper [Paper in IEEE](https://ieeexplore.ieee.org/document/8658643).
 
-The Link of the paper using [Paper in arxiv](https://arxiv.org/abs/1812.08974).
+The Link of the paper [Paper in arxiv](https://arxiv.org/abs/1812.08974).
 
 
 
