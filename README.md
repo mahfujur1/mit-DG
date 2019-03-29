@@ -1,2 +1,2 @@
-# mit-DG
+# MIT-DG
 Multi-component Image Translation for Deep Domain Generalization
