@@ -1,4 +1,3 @@
-# MIT-DG
 # Multi-component Image Translation for Deep Domain Generalization
 
 The Link of the paper [Paper in IEEE](https://ieeexplore.ieee.org/document/8658643).
