@@ -12,7 +12,6 @@ The Link of the paper [Paper in arxiv](https://arxiv.org/abs/1812.08974).
 
 
 ## Citation
-If you use this code for your research, please consider citing:
 
 ```
 @INPROCEEDINGS{8658643, 
