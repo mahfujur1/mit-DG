@@ -19,4 +19,5 @@ author={M. M. {Rahman} and C. {Fookes} and M. {Baktashmotlagh} and S. {Sridharan
 booktitle={IEEE Winter Conference on Applications of Computer Vision (WACV)}, 
 title={Multi-Component Image Translation for Deep Domain Generalization}, 
 year={2019}, 
+}
 ```
